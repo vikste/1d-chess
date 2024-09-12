@@ -1,6 +1,6 @@
-#If you wish to start the simulaiton, click the "f5" key.
+#If you wish to start the simulation, click the "F5" key.
 
-#Importing tkinter as tk allows me to use commands that are not normally available in defalut Python
+#Importing tkinter as tk allows me to use commands that are not normally available in default Python
 import tkinter as tk
 from tkinter import ttk
 
